@@ -1,2 +1,1 @@
-# devesh-nischal.github.io
-My personal website
+My old personal website hosted on gh pages
